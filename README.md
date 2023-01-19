@@ -26,11 +26,16 @@
     <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=CodeSandbox&logoColor=white"/>
   </a> 
 
+---
+  
 ### My Latest Post 📄
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlwl99)](https://velog.io/@wlwl99)
+  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaneChun&layout=compact">
+ <br />
+ <br />
+ <img src="https://github-readme-stats.vercel.app/api?username=JaneChun&show_icons=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaneChun&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=JaneChun&show_icons=true">
 </div>
   
   
