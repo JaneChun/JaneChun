@@ -16,8 +16,9 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>
 
 ### Tools 💻
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <a href="https://github.com/JaneChun"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/> <a href="https://github.com/JaneChun"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
+  
 ### Works 📖
   <a href="https://velog.io/@wlwl99">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/> 
@@ -33,9 +34,6 @@
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlwl99)](https://velog.io/@wlwl99)
   
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaneChun&layout=compact">
- <br />
- <br />
  <img src="https://github-readme-stats.vercel.app/api?username=JaneChun&show_icons=true">
 
 </div>
