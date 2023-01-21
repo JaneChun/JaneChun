@@ -28,6 +28,9 @@
 
   
 ### My Latest Post 📄
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlwl99)](https://velog.io/@wlwl99)
   
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaneChun&layout=compact">
