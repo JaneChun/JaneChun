@@ -61,7 +61,7 @@
     
   ---
   
-  ## 📄 Certifications
+  ## 📄 Certificates
 
 `정보처리기사`  
 `SQLD`  
